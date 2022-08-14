@@ -1,0 +1,18 @@
+{
+	"name": "cnp/cnp-haversine",
+	"description": "Get distance between two points of interest.",
+	"type": "library",
+	"license": "MIT",
+	"homepage": "https://github.com/Clark-Nikdel-Powell/Module-CNP-Haversine",
+	"authors": [
+		{
+			"name": "Glenn Welser",
+			"email": "glenn@clarknikdelpowell.com",
+			"homepage": "https://clarknikdelpowell.com/agency/people/glenn",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	}
+}

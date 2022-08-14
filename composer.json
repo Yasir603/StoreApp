@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.2",
+        "nesbot/carbon": "^2.60",
+        "cnp/cnp-haversine": "^0.2.0",
+        "mjaschen/phpgeo": "^4.2"
+    }
+}
